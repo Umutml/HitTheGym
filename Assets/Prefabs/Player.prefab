@@ -1383,8 +1383,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9986cf556fb4bf04283e31d174ef86df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
-  turnSpeed: 10
+  playerAnimatior: {fileID: 0}
+  playerLevel: 0
+  lvlText: {fileID: 0}
+  scaleMultiplier: 0
 --- !u!1 &7250238330960420825
 GameObject:
   m_ObjectHideFlags: 0
