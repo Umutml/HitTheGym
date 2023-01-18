@@ -7031,7 +7031,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 8313372105628854288}
-  panelTurnSpeed: 0.004
+  panelTurnSpeed: 0.008
   moveSpeed: 10
   xBound: 4.4
 --- !u!114 &1613630184
